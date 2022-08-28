@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+  "name": "hzh-vue-press",
+  "version": "0.0.1",
+  "description": "hzh的技术资料",
+  "main": "index.js",
+  "author": "irumeng",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.50"
+  }
+}
