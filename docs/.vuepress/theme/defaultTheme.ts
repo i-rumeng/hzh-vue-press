@@ -9,6 +9,10 @@ export default {
         link: "/jsp",
       },
       {
+        text: "博客",
+        link: "https://www.irumeng.com/home/blog/index",
+      },
+      {
         text: "GitHub",
         link: "https://github.com/i-rumeng",
       },
